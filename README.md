@@ -39,7 +39,7 @@ Me apasiona la convergencia entre **arte, videojuegos y tecnología**. Trabajo c
  Proyecto | Descripción | Demo |
 |----------|-------------|------|
 | 🎮 Eco Guardians of Olympus | RPG isométrico inspirado en FF1 | ![Demo](URL_DEL_GIF_ECO) |
-| 🐾 AR para Veterinario | Filtro interactivo con Meta Spark | ![Demo](URL_DEL_GIF_VET) [Image](assets/VeterinariaAR.mp4) |
+| 🐾 AR para Veterinario | Filtro interactivo con Meta Spark | ![Demo](assets/VeterinariaAR.mp4) |
 | 🧠 Adaptive VR Learning | Experiencia que adapta el contenido según la actividad cerebral | ![Demo](URL_DEL_GIF_VR) |
 | 🌐 NARA AR | Proyecto educativo de AR accesible | ![Demo](URL_DEL_GIF_NARA) |
 | 🎨 Hydra Live Coding | Taller creativo para principiantes en visuales interactivas | ![Demo](URL_DEL_GIF_HYDRA) |
