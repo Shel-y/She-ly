@@ -1,3 +1,5 @@
+![Shelspace Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 # She-ly
 AR/XR &amp; AI Developer | Creative Software Dev | AWS Community Speaker
 
@@ -34,10 +36,13 @@ Me apasiona la convergencia entre **arte, videojuegos y tecnología**. Trabajo c
 ---
 
 ## 📌 Proyectos destacados
-- 🐾 [**AR para Veterinario**](#) – Filtro interactivo con Meta Spark.  
-- 🧠 [**Adaptive VR Learning using Brain-Based Feedback**](#) – Experiencia de aprendizaje inmersiva que adapta el contenido según la actividad cerebral del usuario.  
-- 🌐 [**NARA AR**](#) – Proyecto de Realidad Aumentada con enfoque educativo y accesible.  
-- 🎨 [**Hydra Live Coding**](#) – Taller creativo para principiantes en visuales interactivas.  
+ Proyecto | Descripción | Demo |
+|----------|-------------|------|
+| 🎮 Eco Guardians of Olympus | RPG isométrico inspirado en FF1 | ![Demo](URL_DEL_GIF_ECO) |
+| 🐾 AR para Veterinario | Filtro interactivo con Meta Spark | ![Demo](URL_DEL_GIF_VET) |
+| 🧠 Adaptive VR Learning | Experiencia que adapta el contenido según la actividad cerebral | ![Demo](URL_DEL_GIF_VR) |
+| 🌐 NARA AR | Proyecto educativo de AR accesible | ![Demo](URL_DEL_GIF_NARA) |
+| 🎨 Hydra Live Coding | Taller creativo para principiantes en visuales interactivas | ![Demo](URL_DEL_GIF_HYDRA) |
 
 ---
 
