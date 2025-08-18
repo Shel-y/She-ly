@@ -1,4 +1,4 @@
-![Shelspace Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Shelspace Banner](assets/portafolio.gif)
 
 # She-ly
 AR/XR &amp; AI Developer | Creative Software Dev | AWS Community Speaker
