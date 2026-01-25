@@ -1,58 +1,70 @@
-![Shelspace Banner](assets/portafolio.gif)
+# Joselyn Lagunas (She-ly)
 
-# She-ly
-AR/XR &amp; AI Developer | Creative Software Dev | AWS Community Speaker
-
-# ¡Hola, soy Shel 👋
-
-🎮 **Software & XR Developer** | 👩‍🏫 Docente de Tecnología | 🎨 Creadora de experiencias inmersivas  
-
-Me apasiona la convergencia entre **arte, videojuegos y tecnología**. Trabajo con **Realidad Aumentada, Inteligencia Artificial y Cloud (AWS)** para crear proyectos interactivos que inspiran, impactan y divierten.  
+Software Engineering student focused on **Python, scientific computing, and research-oriented software development**.  
+I build systems for **real-time data processing**, adaptive applications, and educational or experimental environments.
 
 ---
 
-## 🚀 Lo que hago
-- 🕹️ Desarrollo de videojuegos .  
-- ✨ Experiencias inmersivas en **AR/VR/XR** (Meta Spark, Lens Studio, Unity, Hydra, Processing, Adaptive VR Learning).  
-- ☁️ Charlas y talleres sobre **AI y AWS** (*Revolucionando la IA en Videojuegos con Amazon SageMaker*).  
-- 👩‍🏫 Docente de programación y tecnología en **PILARES**, impulsando la educación tecnológica inclusiva.  
+## 👋 About Me
+Hi, I'm Shel 👋  
+I’m a Software Development Engineering student with experience working in **interdisciplinary research and engineering environments**, combining programming, data processing, and system integration.
+
+My background includes **real-time pipelines, physiological data (EEG) processing**, and adaptive systems, as well as immersive and interactive technologies.
 
 ---
 
-## 🏆 Logros destacados
-- 🥇 *Soulsyn*: Judges’ Choice + 2º lugar LATAM.  
-- 🥈 2º lugar en concursos de Realidad Aumentada e Inmersivos (Meta Spark).  
-- 🎤 Speaker en **AWS Community Day, JsConf, Women in Gamex** y más.  
+## 🔬 Current Focus
+- Scientific computing and data analysis with **Python** (NumPy, Pandas, Matplotlib)
+- Real-time data processing and system integration
+- Clean, maintainable software architecture on **Linux**
+- Exploring computational approaches to **physics and complex systems**
 
 ---
 
-## 🛠️ Tecnologías
-![AR](https://img.shields.io/badge/AR%2FXR-MetaSpark%2C%20Lens%2C%20Unity-blueviolet)
-![AI](https://img.shields.io/badge/AI-SageMaker%2C%20Python-orange?logo=amazonaws)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+## 🧠 Research & Technical Experience
+- Designed **Python-based pipelines** for real-time EEG data processing
+- Implemented **socket-based communication** for low-latency systems
+- Worked in interdisciplinary teams across neuroscience, UX, and AI systems
+- Developed adaptive logic driven by data and experimental feedback
+
+---
+## 🧪 Selected Projects
+| Project | Description |
+|-------|-------------|
+| 🧠 **Adaptive VR Learning (Research Prototype)** | Python-based pipeline for real-time EEG data processing and adaptive system logic |
+| 🔌 **EasyBroker API Integration (Python)** | Scalable REST API integration focused on clean architecture and data handling |
+| ⚛️ **Quantum Logic Simulations (Python)** | Computational exploration of basic quantum gates and linear algebra concepts |
 
 ---
 
-## 📌 Proyectos destacados
- Proyecto | Descripción | Demo |
-|----------|-------------|------|
-| 🎮 Eco Guardians of Olympus | RPG isométrico inspirado en FF1 | ![Demo](URL_DEL_GIF_ECO) |
-| 🐾 AR para Veterinario | Filtro interactivo con Meta Spark | ![Demo](assets/VeterinariaAR.mp4) |
-| 🧠 Adaptive VR Learning | Experiencia que adapta el contenido según la actividad cerebral | ![Demo](URL_DEL_GIF_VR) |
-| 🌐 NARA AR | Proyecto educativo de AR accesible | ![Demo](URL_DEL_GIF_NARA) |
-| 🎨 Hydra Live Coding | Taller creativo para principiantes en visuales interactivas | ![Demo](URL_DEL_GIF_HYDRA) |
+## 👩‍🏫 Teaching & Community
+- Computing & Programming Educator at **PILARES (Mexico City)**
+- Focus on inclusive technical education and employability skills
+- Speaker at technical and developer communities (AWS, JS, immersive tech)
 
 ---
 
-## 📊 Stats
-![Shel's GitHub stats](https://github-readme-stats.vercel.app/api?username=She-Ly&show_icons=true&theme=tokyonight)  
+## 🛠️ Technical Skills
+- **Languages:** Python, JavaScript, SQL
+- **Data & Scientific Tools:** NumPy, Pandas, Matplotlib
+- **Systems & Tools:** Git, Linux, Virtual Environments, REST APIs, Sockets
+- **Other:** Immersive & XR systems (AR/VR) as applied to real-time interaction
+
+---
+
+## 🏆 Awards & Recognition
+- *Soulsyn* – Judges’ Choice & 2nd Place LATAM
+- 2nd Place – AR & Immersive Experience Competitions (Meta Spark)
+
+---
+
+## 📊 GitHub Stats
+![Shel's GitHub stats](https://github-readme-stats.vercel.app/api?username=She-Ly&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=She-Ly&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Encuéntrame en
-- 💼 [LinkedIn](https://www.linkedin.com/in/joselyn-lagunas-5095b3232/)  
-- 🌍 [Portafolio](#)  
-- ✉️ josymonse@email.com  
+## 🌐 Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/joselyn-lagunas-5095b3232/)
+- 🌍 Portfolio (XR & Immersive Work)
+- ✉️ josymonse@email.com
