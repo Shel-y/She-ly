@@ -66,5 +66,4 @@ My background includes **real-time pipelines, physiological data (EEG) processin
 
 ## 🌐 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/joselyn-lagunas-5095b3232/)
-- 🌍 Portfolio (XR & Immersive Work)
-- ✉️ josymonse@email.com
+- ✉️ josymonse@gmail.com
